@@ -15,13 +15,13 @@ input.m: some inputs for the analysis
 --> minIQ: minimum image quality for a bad data point
 --> minNIndexedBands: minimum number of indexed bands for a bad data point
 
-EXAMPLE
+##EXAMPLE
 A polycrytal with synthetic uniform elastic bending strain
 
-OUTPUTS
-Main outputs
---> sigma: stress components at each dof
---> sigma_ref: reference point stresses
+##OUTPUTS
+- Main outputs
+-- sigma: stress components at each dof
+-- sigma_ref: reference point stresses
 
 POSTPROCESSING
 outputs.m
