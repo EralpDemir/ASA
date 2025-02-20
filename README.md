@@ -20,7 +20,7 @@ A polycrytal with synthetic uniform elastic bending strain
 
 ##OUTPUTS
 - Main outputs
--- sigma: stress components at each dof
+  - sigma: stress components at each dof
 -- sigma_ref: reference point stresses
 
 POSTPROCESSING
