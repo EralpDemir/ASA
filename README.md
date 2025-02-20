@@ -1,7 +1,7 @@
 # ASA
 Absolute Stress Analysis from HR-EBSD maps
 
-INPUTS
+## INPUTS
 data.mat: contains the HR-EBSD analysis findings as the input to ASA
 --> Data.str: contains the EBSD data
 --> Map.str: contains the stress results
