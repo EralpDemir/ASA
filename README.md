@@ -15,15 +15,15 @@ Absolute Stress Analysis from HR-EBSD maps
   - minIQ: minimum image quality for a bad data point
   - minNIndexedBands: minimum number of indexed bands for a bad data point
 
-##EXAMPLE
+## EXAMPLE
 A polycrytal with synthetic uniform elastic bending strain
 
-##OUTPUTS
+## OUTPUTS
 - Main outputs
   - sigma: stress components at each dof
   - sigma_ref: reference point stresses
 
-##POSTPROCESSING
+## POSTPROCESSING
 - Copy scripts from
   - outputs.m
   - output_ref.m
