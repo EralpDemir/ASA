@@ -16,7 +16,7 @@ Absolute Stress Analysis from HR-EBSD maps
   - minNIndexedBands: minimum number of indexed bands for a bad data point
 
 ## EXAMPLE
-A polycrytal with synthetic uniform elastic bending strain
+Synthetic uniform elastic bending strain applied to a polycrytal with 71 grains 
 
 ## OUTPUTS
 - Main outputs
