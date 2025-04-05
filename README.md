@@ -1,8 +1,8 @@
-# ASA
-Absolute Stress Analysis from HR-EBSD maps
+# RSA
+Resdiual Stress Analysis from HR-EBSD maps
 
 ## INPUTS
-- data.mat: contains the HR-EBSD analysis findings as the input to ASA
+- data.mat: contains the HR-EBSD analysis findings as the input to RSA
   - Data: the data structure for the EBSD data
   - Map: the data structure for the stress results (HR-EBSD analysis)
   - num_ref: the number of reference points
